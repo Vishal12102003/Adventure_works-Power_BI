@@ -22,11 +22,6 @@ The business needs a clear understanding of:
 - How to make **data-driven marketing and sales decisions** based on these insights.
 ---
 
-Open the live dashboard here:  
-[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWJkODEwMWMtZDRiOC00NTFlLWFhNWEtZGI4OGVkMTc2MGQyIiwidCI6ImE3NTk3ZTk2LTE1NDAtNDVmZi05ZGE5LTg5NWY5NzRhZDYyYSJ9)
-
----
-
 ## 🚀 Steps Followed
 
 ### 🔹 Step 1: Data Import
@@ -79,8 +74,9 @@ Profit = [SalesAmt] - [ProductionCost]
 ```
 ---
 
-#### Uploaded In Power Bi Service: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZGIwM2U3NWQtNTY3YS00NGJkLWFiNTctMzJjNjE2NmZiNzI5IiwidCI6ImE3NTk3ZTk2LTE1NDAtNDVmZi05ZGE5LTg5NWY5NzRhZDYyYSJ9)
-
+Open the live dashboard here:  
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWJkODEwMWMtZDRiOC00NTFlLWFhNWEtZGI4OGVkMTc2MGQyIiwidCI6ImE3NTk3ZTk2LTE1NDAtNDVmZi05ZGE5LTg5NWY5NzRhZDYyYSJ9)
+---
 
 ### 📊 Sales Dashboard
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/392d7d0b-531d-4b52-bc95-fc340f5f7086)
