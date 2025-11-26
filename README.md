@@ -20,6 +20,10 @@ The business needs a clear understanding of:
 - Which **regions** drive the most revenue.
 - Which **customer segments** yield the highest profits.
 - How to make **data-driven marketing and sales decisions** based on these insights.
+---
+
+Open the live dashboard here:  
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWJkODEwMWMtZDRiOC00NTFlLWFhNWEtZGI4OGVkMTc2MGQyIiwidCI6ImE3NTk3ZTk2LTE1NDAtNDVmZi05ZGE5LTg5NWY5NzRhZDYyYSJ9)
 
 ---
 
